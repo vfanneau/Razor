@@ -1,0 +1,10 @@
+.git/
+.vs/
+bin/
+obj/
+Properties/
+wwwroot/
+Razor.csproj.user
+Razor.sln
+appsettings.json
+appsettings.Development.json
